@@ -20,24 +20,7 @@ pythonsoham = {
 }
 
 
-🛠️ Tech Stack
 
-Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Backend
-Show Image
-Show Image
-Show Image
-
-Tools & Others
-Show Image
-Show Image
-Show Image
 
 
 📌 Featured Projects
@@ -59,11 +42,9 @@ Show Image
 🐍 Contribution Graph
 
 <div align="center">
-Show Image
+
 
 </div>
-
-⚡ To enable the snake animation, add a GitHub Actions workflow — see setup guide below.
 
 
 
