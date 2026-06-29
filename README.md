@@ -41,10 +41,23 @@ soham = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+
+**AI / ML / Data**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+
 **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
+
+
 
 ---
 
@@ -59,12 +72,7 @@ soham = {
 | 👶 [Baby Care](https://github.com/soham8017/baby-care) | Baby care information website | HTML |
 
 
-**AI / ML / Data**
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
 
 ---
 
