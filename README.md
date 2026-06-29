@@ -58,6 +58,14 @@ soham = {
 | 🖱️ [Custom Cursor](https://github.com/soham8017/SCT-WD-TAST4) | Creative custom cursor effects | CSS · JS |
 | 👶 [Baby Care](https://github.com/soham8017/baby-care) | Baby care information website | HTML |
 
+
+**AI / ML / Data**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
