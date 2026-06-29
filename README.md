@@ -28,14 +28,7 @@ pythonsoham = {
 ProjectDescriptionStack🍛 Bengali Food DeliveryFull-stack food delivery app with saffron-and-deep-brown aesthetic, auth, category sections & animationsReact · Tailwind · Express.js🌐 Landing SiteResponsive marketing landing pageHTML · CSS⏱️ Stopwatch AppInteractive stopwatch with lap trackingJavaScript🖱️ Custom CursorCreative custom cursor effectsCSS · JS👶 Baby CareBaby care information websiteHTML
 
 
-📊 GitHub Stats
 
-<div align="center">
-Show Image
-
-Show Image
-
-Show Image
 
 </div>
 
